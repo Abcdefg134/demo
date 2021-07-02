@@ -6,7 +6,7 @@ import './css/all.css'
 
 function App() {
   return (
-    <Navigation/>
+    <Navigation />
   );
 }
 
